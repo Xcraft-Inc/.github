@@ -1,1 +1,1 @@
-![xcraft](/profile/xcraft.svg)
+<img src="/profile/xcraft.svg" width="300px" />
