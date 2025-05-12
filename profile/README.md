@@ -25,7 +25,9 @@ Xcraft met l’accent sur le **local-first** :
 Grâce à cette approche, l’interface reste fluide, et l’utilisateur n’a pas à se
 soucier de son statut en ligne/hors-ligne : l’application fonctionne de façon
 **réactive**, et tout se met à jour automatiquement dès qu’une connexion est
-disponible.
+disponible. 
+
+[Voir aussi notre manifeste sur la réactivité](./manifeste.md)
 
 ### 1.2 Un Modèle d’Acteurs
 
